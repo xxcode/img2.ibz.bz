@@ -1,0 +1,241 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>404页面资讯推荐-国际能源网</title>
+<meta http-equiv="mobile-agent" content="format=xhtml; url=https://m.in-en.com/template/inencom/html404.html">
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.in-en.com/template/inencom/html404.html">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.in-en.com/favicon.ico"/>
+<link rel="bookmark" type="image/x-icon" href="https://www.in-en.com/favicon.ico"/>
+<base target="_blank" />
+<link rev="stylesheet" rel="stylesheet" href="https://www.in-en.com/css/home/html404.css" />
+    <script type="text/javascript" src="https://img.in-en.com/resfile/js/count.js"></script>
+<script type="text/javascript" src="https://img.in-en.com/resfile/js/lang.js"></script>
+<script type="text/javascript" src="https://img.in-en.com/resfile/js/config.js"></script>
+<script type="text/javascript" src="https://img.in-en.com/resfile/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="https://img.in-en.com/resfile/js/common.js"></script>
+<script type="text/javascript" src="https://img.in-en.com/resfile/js/page.js"></script>
+<script type="text/javascript" src="https://img.in-en.com/resfile/js/jquery.SuperSlide.2.1.3.js"></script>
+<script type="text/javascript">
+GoMobile('https://m.in-en.com/404.php');
+var searchid = 5;
+</script>
+</head>
+<body>
+<!--头部开始-->
+<div class="top">
+    <div class="w1200 fix" style="text-align: center;">
+        <div class="topLeft fl">
+            <div class="fl" id="MyCms_member">欢迎您访问<a href="https://www.in-en.com/">国际能源网</a>!</div>
+        </div>
+        全国免费热线:400-8256-198
+        <div class="topRight fr">     
+            <a class="favorite"  onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('https://www.in-en.com');" href="javascript:;" title="设置国际能源网为首页" target="_self">设为首页</a>
+            <a class="kjfs" href="https://www.in-en.com/url.php" title="保存国际能源网快捷方式到桌面">添加桌面</a>
+<div class="fastNav">
+                <a href="javascript:;">网站导航</a>
+                <ul id="topMenu" style="display:none">
+                    <li><a href="https://www.in-en.com/">国际能源网</a></li>
+                    <li><a href="https://power.in-en.com/">国际电力网</a></li>
+                    <li><a href="https://coal.in-en.com/">国际煤炭网</a></li>
+                    <li><a href="https://oil.in-en.com/">国际石油网</a></li>
+                    <li><a href="https://gas.in-en.com/">国际燃气网</a></li>
+                    <li><a href="https://newenergy.in-en.com/">国际新能源网</a></li>
+                    <li><a href="https://wind.in-en.com/">国际风力发电网</a></li>
+                    <li><a href="https://solar.in-en.com/">国际太阳能光伏网</a></li>
+                    <li><a href="https://chuneng.in-en.com/">国际储能网</a></li>
+                    <li><a href="https://h2.in-en.com/">国际氢能网</a></li>
+                    <li><a href="https://chd.in-en.com/">国际充换电网</a></li>
+                    <li><a href="https://huanbao.in-en.com/">国际节能环保网</a></li>
+                </ul>
+            </div><a href="https://www.in-en.com/about/service.html">会员服务</a> <a href="https://www.in-en.com/about/ad.html">广告服务</a> </div>
+    </div>
+    <script>
+        $(function() {
+            $(".fastNav").mouseenter(function () {
+                $(this).children('a').css({'background-color': '#fff','color':'#00a67c'});
+                $('#topMenu').stop().slideDown("slow");
+            }).mouseleave(function () {
+                $(this).children('a').css({'background-color': '#f4f4f4','color':'#333'});
+                $('#topMenu').stop().slideUp("slow");
+            });
+        })
+    </script>
+</div><!--logo-->
+<div class="w1200 fix">
+    <div class="logo fl">
+        <h1>
+            <a href="https://www.in-en.com/" title="国际能源网">国际能源网</a>
+        </h1>
+        <span><a href="https://www.in-en.com/" title="国际能源网-能源行业最大门户网站">能源行业最大门户网站</a></span>
+    </div>
+    <div class="top_tgcg fr">
+        <a href="https://www.in-en.com/member/my.php?mid=5&action=add" target="_blank" rel="nofollow">发布产品</a>
+        <a href="https://www.in-en.com/buy/buyoffer/" title="快速发布采购">快速发布采购</a>
+    </div>
+    <div class="search-con fr">
+    <div class="searchBox fl">
+        <div class="mod_select">
+            <div class="select_box">
+                <span class="select_txt">资讯</span>
+                <ul class="option">
+                    <li>资讯</li>
+                    <li>产品</li>
+                    <li>求购</li>
+                    <li>公司</li>
+                    <li>行情</li>
+                    <li>统计</li>
+                </ul>
+            </div>
+        </div>
+        <div class="sobox">
+            <ul id="con_search_4" style="display: block;">
+                <li><input class="inputs" name="search4" type="text" id="search_4" value="请输入文章标题或关键词" onBlur=" if(this.value==''){this.value='请输入文章标题或关键词'}" onFocus="if(this.value=='请输入文章标题或关键词'){this.value=''}"  placeholder="请输入文章标题或关键词"></li>
+                <li><input class="sosub" name="" value="搜 索" type="button" onClick="SearchKeyword('search',4)"></li>
+            </ul>
+            <ul id="con_search_1" style="display: none;">
+                <li><input class="inputs" name="search1" type="text" id="search_1" value="请输入产品名称或关键词" onBlur=" if(this.value==''){this.value='请输入产品名称或关键词'}" onFocus="if(this.value=='请输入产品名称或关键词'){this.value=''}" placeholder="请输入产品名称或关键词" ></li>
+                <li><input class="sosub" name="" value="搜 索" type="button" onClick="SearchKeyword('search',1)"></li>
+            </ul>
+            <ul id="con_search_2" style="display: none;">
+                <li><input class="inputs" name="search2" type="text" id="search_2" value="请输入求购名称或关键词" onBlur=" if(this.value==''){this.value='请输入求购名称或关键词'}" onFocus="if(this.value=='请输入求购名称或关键词'){this.value=''}" placeholder="请输入求购名称或关键词" ></li>
+                <li><input class="sosub" name="" value="搜 索" type="button" onClick="SearchKeyword('search',2)"></li>
+            </ul>
+            <ul id="con_search_3" style="display: none;">
+                <li><input class="inputs" name="search3" type="text" id="search_3" value="请输入公司名称或关键词" onBlur=" if(this.value==''){this.value='请输入公司名称或关键词'}" onFocus="if(this.value=='请输入公司名称或关键词'){this.value=''}" placeholder="请输入公司名称或关键词" ></li>
+                <li><input class="sosub" name="" value="搜 索" type="button" onClick="SearchKeyword('search',3)"></li>
+            </ul>
+            <ul id="con_search_5" style="display: none;">
+                <li><input class="inputs" name="search5" type="text" id="search_5" value="请输入行情或关键词" onBlur=" if(this.value==''){this.value='请输入行情或关键词'}" onFocus="if(this.value=='请输入行情或关键词'){this.value=''}"  placeholder="请输入行情或关键词"></li>
+                <li><input class="sosub" name="" value="搜 索" type="button" onClick="SearchKeyword('search',5)"></li>
+            </ul>
+            <ul id="con_search_6" style="display: none;">
+                <li><input class="inputs" name="search6" type="text" id="search_6" value="请输入统计名称或关键词" onBlur=" if(this.value==''){this.value='请输入统计名称或关键词'}" onFocus="if(this.value=='请输入统计名称或关键词'){this.value=''}"  placeholder="请输入统计名称或关键词"></li>
+                <li><input class="sosub" name="" value="搜 索" type="button" onClick="SearchKeyword('search',6)"></li>
+            </ul>
+        </div>
+    </div>
+</div></div>
+<!--导航-->
+<div class="nav">
+    <ul class="w1200">
+        <li class="nav_1"><a href="https://www.in-en.com/" class="hover">首页</a></li>
+        <li><a href="https://www.in-en.com/article/">能源资讯</a></li>
+        <li><a href="https://solar.in-en.com/">光伏网</a></li>
+        <li><a href="https://newenergy.in-en.com/wind/">风电网</a></li>
+        <li><a href="https://newenergy.in-en.com/">新能源网</a></li>
+        <li><a href="https://power.in-en.com/">电力网</a></li>
+        <li><a href="https://newenergy.in-en.com/NEV/">储能电池网</a></li>
+        <li><a href="https://huanbao.in-en.com/">节能环保网</a></li>
+        <li><a href="https://gas.in-en.com/">燃气网</a></li>
+        <li><a href="https://oil.in-en.com/">石油网</a></li>
+        <li><a href="https://coal.in-en.com/">煤炭网</a></li>
+        <li><a href="https://www.in-en.com/special/">能源专题</a></li>
+        <li><a href="https://www.in-en.com/sitemap/">更多</a></li>
+    </ul>
+</div><div class="w1200">
+<div class="title404">
+    <img src="https://www.in-en.com/images/404-3.jpg" align="absmiddle"/>
+<br/>
+<div class="btn">
+<p>哎呀，出错了！您访问的页面不存在......或已被删除！</p>
+<p>您可以通过以下方式继续访问：</p>
+<a style="width:200px;" href="https://www.in-en.com/">返回 国际能源网 首页</a>
+<span id="second">30</span>秒后自动返回 国际能源网首页
+</div>
+</div>
+</div>
+<meta http-equiv="refresh" content="30;url=https://www.in-en.com/">
+<!--底部-->
+<div class="footer">
+<p class="footerNav">
+<a href="https://www.in-en.com/" hidefocus="true" target="_blank">网站首页</a>｜
+<a href="https://www.in-en.com/about/index.html" hidefocus="true" target="_blank" rel="nofollow">关于我们</a>｜
+<a href="https://www.in-en.com/about/service.html">会员服务</a>｜
+<a href="https://www.in-en.com/about/ad.html">广告服务</a>｜
+<a href="https://www.in-en.com/about/agreement.html" hidefocus="true" target="_blank" rel="nofollow">服务条款</a>｜
+<a href="https://www.in-en.com/about/copyright.html" hidefocus="true" target="_blank" rel="nofollow">隐私声明</a>｜
+<a href="https://www.in-en.com/link/" hidefocus="true" target="_blank" rel="nofollow">合作站点</a>｜
+<a href="https://www.in-en.com/about/contact.html" hidefocus="true" target="_blank">联系方式</a>｜
+<a href="https://www.in-en.com/sitemap/" hidefocus="true" target="_blank">网站地图</a>
+</p>
+<div class="content">
+<p>国际能源网——全球首家能源产业价值链服务平台</p>
+<p>客服热线：400-8256-198 010-56709120 客服邮箱:inencom@in-en.com</p>
+<p>Copyright 2005-2021 in-en.com. All Rights Reserved 国际能源网 <a href="http://www.beian.miit.gov.cn" target="_blank" rel="nofollow">京ICP备14050515号</a></p>
+</div>
+</div>
+<script type="text/javascript">
+var i = 30;
+var interval=window.setInterval(
+function() {
+if(i==0) {
+clearInterval(interval);
+} else {
+Dd('second').innerHTML=i;
+i--;
+}
+}, 
+1000);
+</script>
+<script type="text/javascript">
+var MyCms_userid = 0,MyCms_username = '',MyCms_message = 0,MyCms_chat = 0,MyCms_cart = get_cart(),MyCms_member = MyCms_guest = '';
+MyCms_guest = '<img src="https://www.in-en.com/skin/inencom/image/ico-user.png" align="absmiddle"/><a href="https://www.in-en.com/member/login.php">会员登录</a> | <a href="https://www.in-en.com/member/register.php">免费注册</a> | <a href="https://www.in-en.com/member/send.php">忘记密码</a><input type="hidden" id="pay_money" value=""/><input type="hidden" id="mmoduleid" value="1"/><input type="hidden" id="jiage" value=""/><input type="hidden" id="iitemid" value="0"/><input type="hidden" id="ttitle" value=""/>';
+MyCms_member += MyCms_guest;
+$('#MyCms_member').html(MyCms_member);
+$('#MyCms_cart').html(MyCms_cart > 0 ? '<strong>'+MyCms_cart+'</strong>' : 0);
+</script>
+<!--搜索框-->
+<script>
+$(function(){
+$(".select_box").hover(function(event){
+event.stopPropagation();
+$(".option").toggle();
+//            $(this).find(".option").toggle();
+//            $(this).parent().siblings().find(".option").hide();
+});
+$(document).click(function(event){
+var eo=$(event.target);
+if($(".select_box").is(":visible") && eo.attr("class")!="option" && !eo.parent(".option").length)
+$('.option').hide();
+});
+$(".option li").click(function(event){
+var check_value=$(this).text();
+$(this).parent().siblings(".select_txt").text(check_value);//把选中的项目赋给span
+$(".sobox ul").eq($(this).index()).css({"display":"block"}).siblings('ul').css({"display":"none"})
+});
+})
+</script>
+<!-- 搜索 -->
+<script>
+function SearchKeyword(sear,n){
+var a = encodeURIComponent(document.getElementById(sear+"_"+n).value);
+var b = document.getElementById(sear+"_"+n).value;
+var search1 = "https://www.in-en.com/sell/search.php?kw=" + a + "";
+var search2 = "https://www.in-en.com/buy/search.php?kw=" + a + "";
+var search3 = "https://www.in-en.com/company/search.php?kw=" + a + "";
+var search4 = "https://www.in-en.com/search.php?q=" + a + "";
+var search5 = "https://www.in-en.com/search.php?q=" + a + "";
+var search6 = "https://www.in-en.com/search.php?q=" + a + "";
+if(n==1){
+window.open(search1);
+}
+if(n==2){
+window.open(search2);
+}
+if(n==3){
+window.open(search3);
+}
+if(n==4){
+window.open(search4);
+}
+if(n==5){
+window.open(search5);
+}
+if(n==6){
+window.open(search6);
+}
+}
+</script>
+</body>
+</html>
